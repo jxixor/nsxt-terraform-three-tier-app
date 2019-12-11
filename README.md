@@ -7,3 +7,5 @@ It also creates different security components like Groups based on VM tags, FW S
 I changged this to remove the VM deployment and to work with:
   Terraform v0.12.17
   + provider.nsxt v1.1.2
+
+https://www.terraform.io/docs/providers/nsxt/
